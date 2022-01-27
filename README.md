@@ -14,3 +14,5 @@
 [2. 이미지 추출, 합성, 생성, 복사, 참조,  circle](https://blog.naver.com/hongbi222/222631326856)
 
 [3. 동영상 알파채널, 선 그리기, 카메라와 동영상 처리하기](https://blog.naver.com/hongbi222/222632288360)
+
+[\4. 키보드/ 마우스 이벤트 처리, 트랙바 사용하기](https://blog.naver.com/hongbi222/222633259385)
